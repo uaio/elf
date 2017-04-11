@@ -21,7 +21,7 @@ destPath = path.resolve(destPath)
 let template = 'base' // default use `base` template
 if (program.template) template = program.template
 let isUseDefault = !~template.indexOf('/')
-if (isUseDefault) template = `elf-templates/${template}`
+if (isUseDefault) template = `uaio/${template}`
 
 const clone = program.clone || false
 
