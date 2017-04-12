@@ -1,4 +1,4 @@
-改者说：使用这个修改版需要按照原版安装，找到包安装的地方，（C:\Users\xxxxxxxxxx\AppData\Roaming\npm\node_modules\elf-cli）删除除了node_modules所有，然后将修改版放到这里，然后安装babel-core,babel-loaderbabel-preset-es2015
+改者说：使用这个修改版需要按照原版安装，找到包安装的地方，（C:\Users\xxxxxxxxxx\AppData\Roaming\npm\node_modules\elf-cli）删除除了node_modules所有，然后将修改版放到这里，然后安装babel-core,babel-loader,babel-preset-es2015
 <p align="center">
   <a href="https://elf.aotu.io">
     <img alt="ELF" src="https://misc.aotu.io/booxood/elf/logo.png" width="200">
