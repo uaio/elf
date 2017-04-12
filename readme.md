@@ -1,3 +1,4 @@
+改者说：使用这个修改版需要按照原版安装，找到包安装的地方，（C:\Users\xxxxxxxxxx\AppData\Roaming\npm\node_modules\elf-cli）删除除了node_modules所有，然后将修改版放到这里，然后安装babel-core,babel-loaderbabel-preset-es2015
 <p align="center">
   <a href="https://elf.aotu.io">
     <img alt="ELF" src="https://misc.aotu.io/booxood/elf/logo.png" width="200">
@@ -5,6 +6,8 @@
 </p>
 
 ELF - 面向开发者的灵活可扩展的 HTML5 构建工具，提供命令行工具 elf（基于 Webpack），**无需构建配置文件并可进行开发**，可用来制作各种 HTML5 场景营销活动页面，也可自由的通过模板和组件的组合来快速定制开发。
+
+
 
 ## 安装 [![NPM version][npm-version-image]][npm-version-url]
 
